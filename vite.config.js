@@ -11,5 +11,5 @@ export default defineConfig({
       "@": path.resolve("./src") 
     }
   },
-  base: "/Dearing_Colby_Portfolio",
+  base: "/Dearing_Colby_Portfolio/",
 });
