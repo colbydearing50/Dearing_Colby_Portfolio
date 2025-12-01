@@ -119,7 +119,7 @@ export const AboutSection = () => {
             <a href="#contact" className="cosmic-button w-40">Contact Me</a>
           </div>
           <div className="md:col-span-2 md:col-start-4 flex justify-center">
-            <button className="cosmic-button w-40">Resume</button>
+            <a href = {`${import.meta.env.BASE_URL}resume.pdf`} className="cosmic-button w-40">Resume</a>
           </div>
         </div>
       </div>
